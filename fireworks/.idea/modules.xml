@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effective-scala-fireworks.iml" filepath="$PROJECT_DIR$/.idea/modules/effective-scala-fireworks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/effective-scala-fireworks.effective-scala-fireworks-build.iml" filepath="$PROJECT_DIR$/.idea/modules/effective-scala-fireworks.effective-scala-fireworks-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fireworks_9040.iml" filepath="$PROJECT_DIR$/.idea/modules/fireworks_9040.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/fireworks_9040.fireworks_9040-build.iml" filepath="$PROJECT_DIR$/.idea/modules/fireworks_9040.fireworks_9040-build.iml" />
+    </modules>
+  </component>
+</project>
